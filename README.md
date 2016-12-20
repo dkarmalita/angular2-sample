@@ -31,8 +31,6 @@ $ npm install
 
 `npm run start:dev` or `npm start` - start the front-end development server.
 
- - start the server, alias for _node server.js_
-
 `npm clean` - remove *node_modules*
 
 
